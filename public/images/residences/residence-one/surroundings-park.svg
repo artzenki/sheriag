@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Residence One — Parking & Green Area">
+  
+      <defs>
+        <linearGradient id="parkSky" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#3C586E"/>
+          <stop offset="55%" stop-color="#8FAEC2"/>
+          <stop offset="100%" stop-color="#EAD8C0"/>
+        </linearGradient>
+        <linearGradient id="winGlow" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#FFE3B8"/>
+          <stop offset="100%" stop-color="#E48A30"/>
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="1000" fill="url(#parkSky)"/>
+      <!-- Landscaped lawn & stone courtyard -->
+      <rect x="0" y="650" width="1600" height="350" fill="#465E47"/>
+      <polygon points="580,650 1020,650 1360,1000 240,1000" fill="#DCD5C7"/>
+      <!-- Modern residential building backdrop -->
+      <rect x="240" y="130" width="1120" height="520" rx="8" fill="#F4F1EA" stroke="#16191F" stroke-width="4"/>
+      <rect x="230" y="116" width="1140" height="18" fill="#16191F"/>
+      <rect x="240" y="555" width="1120" height="10" fill="#E46800"/>
+      <!-- Illuminated apartment windows -->
+      <rect x="290" y="175" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="420" y="175" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="550" y="175" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="680" y="175" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="810" y="175" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="940" y="175" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="1070" y="175" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="1200" y="175" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="290" y="267" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="420" y="267" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="550" y="267" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="680" y="267" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="810" y="267" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="940" y="267" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="1070" y="267" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="1200" y="267" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="290" y="359" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="420" y="359" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="550" y="359" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="680" y="359" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="810" y="359" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="940" y="359" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="1070" y="359" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="1200" y="359" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="290" y="451" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="420" y="451" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="550" y="451" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="680" y="451" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="810" y="451" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="940" y="451" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/><rect x="1070" y="451" width="92" height="62" rx="4" fill="url(#winGlow)" stroke="#16191F" stroke-width="3"/><rect x="1200" y="451" width="92" height="62" rx="4" fill="#6C879A" stroke="#16191F" stroke-width="3"/>
+      <!-- Lush courtyard trees -->
+      <circle cx="330" cy="580" r="105" fill="#5D7B58"/>
+      <circle cx="360" cy="560" r="85" fill="#77966F"/>
+      <rect x="322" y="640" width="16" height="90" fill="#3D312A"/>
+      <circle cx="1270" cy="570" r="115" fill="#557350"/>
+      <circle cx="1240" cy="550" r="88" fill="#77966F"/>
+      <rect x="1262" y="635" width="16" height="95" fill="#3D312A"/>
+      <!-- Architectural bollards & benches -->
+      <rect x="460" y="775" width="160" height="22" rx="6" fill="#E46800"/>
+      <rect x="980" y="775" width="160" height="22" rx="6" fill="#E46800"/>
+    
+  <!-- Subtle architectural watermark pill top-right -->
+  <g transform="translate(1180, 40)" opacity="0.85">
+    <rect x="0" y="0" width="370" height="44" rx="22" fill="#0F1217" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1"/>
+    <circle cx="24" cy="22" r="5" fill="#E46800"/>
+    <text x="40" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="1.5">SHERIAG • PARK & PARKING</text>
+  </g>
+</svg>

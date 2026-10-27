@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "siteName": "SHERIAG — Residential Development & Construction in Gostivar",
+    "defaultDescription": "SHERIAG develops and builds modern residential apartments, parking, and green neighborhood spaces in Gostivar, North Macedonia. Direct from the developer.",
+    "homeTitle": "SHERIAG | We Build Homes for Gostivar",
+    "homeDescription": "Discover SHERIAG residential complexes in Gostivar, North Macedonia. 4 completed residential buildings and 1 new residential complex now under construction.",
+    "residencesTitle": "Residential Areas | SHERIAG Gostivar",
+    "residencesDescription": "Explore all SHERIAG residential developments in Gostivar — four completed apartment buildings and our newest residential complex under construction.",
+    "aboutTitle": "About SHERIAG | Developer & Builder in Gostivar",
+    "aboutDescription": "SHERIAG develops and builds exclusively its own residential projects in Gostivar. Learn about our commitment to lasting architecture, parking, and community spaces.",
+    "quoteTitle": "Request a Quote | SHERIAG Gostivar",
+    "quoteDescription": "Inquire directly with SHERIAG about apartment availability, floor plans, and pricing in Gostivar. No intermediaries or agency fees.",
+    "contactTitle": "Contact Us | SHERIAG Gostivar",
+    "contactDescription": "Visit the SHERIAG sales and development office in Gostivar, North Macedonia, or contact our team by phone, email, or WhatsApp.",
+    "privacyTitle": "Privacy Policy | SHERIAG Gostivar",
+    "privacyDescription": "How SHERIAG collects, uses, and protects your personal information when you inquire about our residential properties."
+  },
+  "nav": {
+    "home": "Home",
+    "residences": "Residential Areas",
+    "about": "About Us",
+    "quote": "Get a Quote",
+    "contact": "Contact",
+    "getQuoteBtn": "Get a Quote",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "language": "Language",
+    "callUs": "Call Us"
+  },
+  "common": {
+    "gostivarLocation": "Gostivar, North Macedonia",
+    "completed": "Completed",
+    "underConstruction": "Under Construction",
+    "viewResidence": "View residence",
+    "requestQuote": "Request a Quote",
+    "exploreResidences": "Explore Residences",
+    "learnMore": "Learn More",
+    "backToResidences": "Back to all residences",
+    "floors": "Floors",
+    "apartments": "Apartments",
+    "parkingSpaces": "Parking Spaces",
+    "apartmentSizeRange": "Apartment Sizes",
+    "yearCompleted": "Year Completed",
+    "expectedCompletion": "Expected Completion",
+    "walkingMinutes": "{minutes} min walk",
+    "all": "All",
+    "scrollDown": "Scroll to explore",
+    "todoPlaceholderNote": "Placeholder data — to be confirmed by SHERIAG"
+  },
+  "amenities": {
+    "parking": "Dedicated Underground & Surface Parking",
+    "park": "Landscaped Private Park & Green Courtyard",
+    "playground": "Children's Playground Area",
+    "elevator": "Modern High-Speed Passenger Elevators",
+    "security": "Controlled Access & 24/7 Video Surveillance",
+    "storage": "Private Basement Storage Rooms",
+    "insulation": "High-Grade Thermal & Acoustic Insulation",
+    "heating": "Energy-Efficient Heating & Cooling Readiness",
+    "balcony": "Spacious Daylit Balconies & Terraces",
+    "commercial": "Ground-Floor Convenience Retail"
+  },
+  "nearbyTypes": {
+    "center": "City Center",
+    "school": "School & Kindergarten",
+    "market": "Supermarket & Daily Shopping",
+    "park": "Public Park & Promenade",
+    "health": "Healthcare & Pharmacy",
+    "transport": "Main Road & Transit Access"
+  },
+  "stages": {
+    "foundation": "Excavation & Foundation",
+    "structure": "Reinforced Concrete Structure",
+    "facade": "Facade, Windows & Thermal Envelope",
+    "interior": "Interior Installations & Finishes",
+    "handover": "Landscaping, Inspection & Handover"
+  },
+  "galleryCategories": {
+    "all": "All Photos",
+    "exterior": "Exterior",
+    "interior": "Interior",
+    "surroundings": "Park & Surroundings",
+    "render": "Architectural Renders",
+    "construction": "Construction Site"
+  },
+  "home": {
+    "heroEyebrow": "Gostivar, North Macedonia",
+    "heroTitle": "We Build Homes for Gostivar.",
+    "heroSubtitle": "Thoughtfully planned residential buildings with dedicated parking, landscaped parks, and enduring construction quality — developed and built exclusively by SHERIAG.",
+    "heroPrimaryCta": "Explore Residences",
+    "heroSecondaryCta": "Get a Quote",
+    "stats": {
+      "deliveredLabel": "Buildings Delivered",
+      "deliveredNote": "Completed in Gostivar",
+      "apartmentsLabel": "Family Apartments",
+      "apartmentsNote": "Across all projects",
+      "experienceLabel": "Years of Experience",
+      "experienceNote": "Local expertise (TODO)",
+      "underConstructionLabel": "New Residence",
+      "underConstructionNote": "Currently under construction"
+    },
+    "residencesSection": {
+      "eyebrow": "Proven Track Record",
+      "title": "Our Delivered Residential Areas",
+      "subtitle": "Every SHERIAG building is conceived, engineered, and built by our own team — combining generous apartment layouts with organized parking and green outdoor areas.",
+      "viewAllBtn": "View All Residential Areas"
+    },
+    "nowBuilding": {
+      "eyebrow": "Now Building in Gostivar",
+      "badge": "New Development",
+      "progressLabel": "Overall Construction Progress",
+      "currentStageLabel": "Current Stage",
+      "completionLabel": "Expected Completion",
+      "ctaBtn": "See the Project",
+      "quoteBtn": "Inquire About Units"
+    },
+    "whySheriag": {
+      "eyebrow": "Why Choose SHERIAG",
+      "title": "Single-Source Accountability from Groundbreaking to Handover",
+      "subtitle": "Unlike general contractors who build for third parties, SHERIAG develops and constructs only its own residential projects in Gostivar.",
+      "items": {
+        "ownProjects": {
+          "title": "We Only Build What We Develop",
+          "description": "SHERIAG does not do contract work for outside companies. Our entire engineering and site focus goes into our own residential buildings."
+        },
+        "directBuy": {
+          "title": "Direct from the Developer",
+          "description": "Buy directly from the company that designs and builds your home — with transparent pricing, clear documentation, and no middlemen."
+        },
+        "parkingAndParks": {
+          "title": "Parking & Parks Built In",
+          "description": "True residential comfort extends beyond the apartment door. Every complex integrates dedicated resident parking and landscaped green spaces."
+        },
+        "localRooted": {
+          "title": "Rooted in Gostivar",
+          "description": "Our team lives and works in Gostivar. Whether you live locally or are buying from the diaspora, we are here before, during, and after handover."
+        }
+      },
+      "modal": {
+        "close": "Close",
+        "items": {
+          "ownProjects": {
+            "lead": "SHERIAG develops and builds exclusively its own residential complexes in Gostivar. All structural, architectural, and finish work is managed under our direct supervision.",
+            "points": [
+              "No third-party contract work — 100% dedication to our own residential developments",
+              "Strict material testing and quality control from foundation concrete to exterior insulation",
+              "Single-source accountability with no finger-pointing between investors and outside builders"
+            ],
+            "commitment": "Our name is on every building we deliver, and our reputation is our strongest guarantee."
+          },
+          "directBuy": {
+            "lead": "Purchasing an apartment happens directly with developer SHERIAG, with transparent terms and zero intermediary commissions.",
+            "points": [
+              "0% real-estate agency fees — direct pricing from the original developer",
+              "Clear legal titles, fully compliant building permits, and structured notary procedures",
+              "Flexible staged payment schedules matched to visible construction milestones"
+            ],
+            "commitment": "Speak directly with the team designing and building your future home."
+          },
+          "parkingAndParks": {
+            "lead": "True residential wellbeing extends beyond your living room. Dedicated parking and green courtyard parks are foundational in all our projects.",
+            "points": [
+              "Underground and exterior parking bays planned for resident households",
+              "Private landscaped green spaces and sheltered playgrounds for children",
+              "Pedestrian-first courtyard circulation sheltered from street traffic"
+            ],
+            "commitment": "We build enduring family environments where outdoor calm and convenience coexist."
+          },
+          "localRooted": {
+            "lead": "Our engineers, designers, and site managers live and work in Gostivar. We understand the city, its micro-locations, and community expectations.",
+            "points": [
+              "Accessible local headquarters in Gostivar for consultations and site visits",
+              "Dedicated guidance for diaspora buyers with transparent remote progress tracking",
+              "Long-term post-handover support for building maintenance and community services"
+            ],
+            "commitment": "We are rooted right here in Gostivar — your reliable local partner in real estate."
+          }
+        }
+      }
+    },
+    "gallerySection": {
+      "eyebrow": "Architecture & Renders",
+      "title": "A Closer Look at Our Buildings",
+      "subtitle": "Explore architectural renders, exterior views, interior layouts, and neighborhood parks across SHERIAG developments."
+    },
+    "mapSection": {
+      "eyebrow": "Locations in Gostivar",
+      "title": "Explore Our Neighborhoods",
+      "subtitle": "Click any pin on the map to inspect the residential complex, nearby amenities, and walking distances.",
+      "openResidence": "View Residence Page"
+    },
+    "ctaBand": {
+      "eyebrow": "Direct Developer Sales",
+      "title": "Looking for your new home in Gostivar?",
+      "subtitle": "Request a personalized quote today or schedule a visit with our sales and engineering team.",
+      "primaryBtn": "Request a Quote Today",
+      "secondaryBtn": "Contact Our Office"
+    }
+  },
+  "residencesPage": {
+    "eyebrow": "Portfolio",
+    "title": "Our Residential Areas in Gostivar",
+    "intro": "SHERIAG develops complete residential environments with modern apartments, organized parking, and community parks. Browse our four completed residences and our newest complex currently under construction.",
+    "filterAll": "All Projects ({count})",
+    "filterCompleted": "Completed ({count})",
+    "filterUnderConstruction": "Under Construction ({count})",
+    "spotlightBanner": "Now accepting reservations for apartments in our newest residential complex.",
+    "bottomCtaTitle": "Unsure which apartment layout fits your family?",
+    "bottomCtaText": "Speak directly with our team to compare available floor plans, orientations, and payment schedules.",
+    "bottomCtaBtn": "Request a Personalized Quote"
+  },
+  "residenceDetail": {
+    "breadcrumbHome": "Home",
+    "breadcrumbResidences": "Residential Areas",
+    "requestQuoteBtn": "Request a Quote",
+    "viewGalleryBtn": "View Gallery",
+    "overviewEyebrow": "Project Overview",
+    "overviewTitle": "Designed for Everyday Living",
+    "highlightsTitle": "Key Project Highlights",
+    "amenitiesEyebrow": "Building Standards",
+    "amenitiesTitle": "Amenities & Infrastructure",
+    "amenitiesSubtitle": "Planned from day one to ensure comfort, safety, and long-term property value for residents.",
+    "apartmentsEyebrow": "Floor Plans & Layouts",
+    "apartmentsTitle": "Apartment Types",
+    "apartmentsSubtitle": "Contact us for detailed architectural floor plans and current unit availability on each floor.",
+    "askAvailabilityBtn": "Ask About Availability",
+    "galleryEyebrow": "Visual Tour",
+    "galleryTitle": "Project Gallery & Renders",
+    "constructionEyebrow": "Live Site Tracker",
+    "constructionTitle": "Construction Progress & Updates",
+    "constructionSubtitle": "Follow the construction milestones of our newest residential complex in Gostivar.",
+    "overallProgress": "Overall Completion",
+    "currentPhase": "Active Stage",
+    "stageDone": "Completed",
+    "stageCurrent": "In Progress",
+    "stageUpcoming": "Upcoming",
+    "recentUpdatesTitle": "Site Updates Log",
+    "locationEyebrow": "Neighborhood & Connectivity",
+    "locationTitle": "Location & Nearby Places",
+    "locationSubtitle": "Conveniently positioned in Gostivar with everyday essentials within walking distance.",
+    "nearbyHeading": "Walking Distances",
+    "interestEyebrow": "Direct Inquiry",
+    "interestTitle": "Interested in {name}?",
+    "interestSubtitle": "Send us your contact details and our team will reach out with available units and pricing.",
+    "otherResidencesEyebrow": "More from SHERIAG",
+    "otherResidencesTitle": "Explore Other Residential Areas",
+    "mobileCall": "Call Sales",
+    "mobileQuote": "Get a Quote"
+  },
+  "aboutPage": {
+    "eyebrow": "About SHERIAG",
+    "title": "Building Gostivar's Residential Future with Direct Accountability",
+    "subtitle": "SHERIAG is an independent construction and real-estate development company in Gostivar, North Macedonia. We design, fund, and build exclusively our own residential projects.",
+    "storyEyebrow": "Our Philosophy",
+    "storyTitle": "Why We Only Build Our Own Projects",
+    "storyP1": "In the construction industry, many buildings are split between an investor who wants to minimize cost and an outside contractor who simply executes a contract. At SHERIAG, we chose a different path from the beginning.",
+    "storyP2": "SHERIAG develops and builds ONLY its own residential complexes. We never do third-party contract work. That means every structural column, every acoustic wall, every parking ramp, and every neighborhood park carries our name permanently.",
+    "storyP3": "Having delivered four complete residential buildings in Gostivar and now constructing our fifth flagship complex, we serve local families as well as diaspora buyers seeking a dependable, modern home in their hometown.",
+    "valuesEyebrow": "Core Principles",
+    "valuesTitle": "Mission & Values",
+    "values": {
+      "quality": {
+        "title": "Uncompromising Structural Quality",
+        "text": "Certified materials, rigorous seismic engineering, and modern thermal and acoustic insulation on every floor."
+      },
+      "community": {
+        "title": "Complete Living Environments",
+        "text": "We believe a residential building is incomplete without safe parking, green courtyards, and space for families to gather."
+      },
+      "transparency": {
+        "title": "Direct & Honest Relationships",
+        "text": "Clear contracts, milestone updates, and direct communication with the developer from first inquiry to key handover."
+      }
+    },
+    "timelineEyebrow": "Track Record",
+    "timelineTitle": "Timeline of Our Buildings in Gostivar",
+    "timelineSubtitle": "Every milestone below is generated directly from our residential portfolio.",
+    "teamEyebrow": "Leadership & Engineering",
+    "teamTitle": "Our Local Team",
+    "teamSubtitle": "Placeholder profiles below — to be updated with SHERIAG leadership photos and biographies.",
+    "team": {
+      "member1": {
+        "name": "Managing Director (TODO)",
+        "role": "Founder & General Management",
+        "bio": "Oversees project vision, land acquisition, and long-term development standards in Gostivar."
+      },
+      "member2": {
+        "name": "Lead Civil Engineer (TODO)",
+        "role": "Structural Engineering & Site Supervision",
+        "bio": "Directs structural execution, material testing, and quality control across all SHERIAG construction sites."
+      },
+      "member3": {
+        "name": "Lead Architect (TODO)",
+        "role": "Architectural Planning & Urban Design",
+        "bio": "Designs daylit apartment layouts, building facades, parking circulation, and landscaped courtyard parks."
+      },
+      "member4": {
+        "name": "Head of Client Relations (TODO)",
+        "role": "Direct Sales & Buyer Support",
+        "bio": "Guides local and diaspora buyers through apartment selection, documentation, and handover."
+      }
+    }
+  },
+  "quotePage": {
+    "eyebrow": "Direct from the Developer",
+    "title": "Request an Apartment Quote",
+    "subtitle": "Fill in your preferences below. Our sales team in Gostivar will prepare a tailored overview of available apartments, floor plans, and pricing.",
+    "reassuranceTitle": "Why Inquire Directly?",
+    "reassurance1Title": "We reply within 24 hours",
+    "reassurance1Text": "Receive prompt, clear answers from our in-house team in Gostivar.",
+    "reassurance2Title": "No obligation",
+    "reassurance2Text": "Explore floor plans, orientations, and payment options at your own pace.",
+    "reassurance3Title": "Direct from the developer",
+    "reassurance3Text": "0% agency commission and direct answers from the builders of your home.",
+    "directContactTitle": "Prefer to speak right away?",
+    "directContactText": "Reach our office in Gostivar by phone, WhatsApp, or email during working hours."
+  },
+  "contactPage": {
+    "eyebrow": "Get in Touch",
+    "title": "Contact SHERIAG in Gostivar",
+    "subtitle": "Whether you live in Gostivar or are planning a visit from abroad, our team is ready to welcome you at our office or on site.",
+    "addressCardTitle": "Office Address",
+    "addressValue": "Blvd. Braќa Gjinoski (Placeholder TODO), 1230 Gostivar, North Macedonia",
+    "addressNote": "Central Gostivar — easy parking available",
+    "phoneCardTitle": "Phone & WhatsApp",
+    "phoneValue": "+389 42 000 000 (TODO)",
+    "whatsappValue": "+389 70 000 000 (TODO)",
+    "phoneNote": "Available via phone and WhatsApp for diaspora buyers",
+    "emailCardTitle": "Email Address",
+    "emailValue": "info@sheriag.mk (TODO)",
+    "salesEmailValue": "sales@sheriag.mk (TODO)",
+    "emailNote": "We respond within one business day",
+    "hoursTitle": "Working Hours",
+    "hoursWeekdays": "Monday – Friday: 08:30 – 17:00",
+    "hoursSaturday": "Saturday: 09:00 – 14:00",
+    "hoursSunday": "Sunday: Closed (By appointment for diaspora visitors)",
+    "formSectionTitle": "Send Us a Message",
+    "formSectionSubtitle": "Have a question about our completed buildings or our new complex under construction? Write to us below.",
+    "mapTitle": "Our Office in Gostivar"
+  },
+  "forms": {
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "e.g. Arbenash Ibrahimi",
+    "phone": "Phone / WhatsApp Number",
+    "phonePlaceholder": "e.g. +389 70 123 456 or +41 79 123 45 67",
+    "email": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "residence": "Residence of Interest",
+    "residenceSelectPlaceholder": "Select a residential complex",
+    "residenceAny": "Undecided / General Inquiry",
+    "apartmentType": "Preferred Apartment Type",
+    "apartmentTypePlaceholder": "Select apartment size / type",
+    "apartmentTypeAny": "Any / Open to recommendations",
+    "apartmentTypes": {
+      "1br": "1-Bedroom Apartment (approx. 52–62 m²)",
+      "2br": "2-Bedroom Family Apartment (approx. 74–88 m²)",
+      "3br": "3-Bedroom Spacious Apartment (approx. 98–120 m²)",
+      "penthouse": "Top-Floor / Duplex Residence (approx. 125–155 m²)"
+    },
+    "budgetRange": "Estimated Budget Range",
+    "budgetPlaceholder": "Select budget range",
+    "budgetRanges": {
+      "under60k": "Up to €60,000",
+      "60kTo90k": "€60,000 – €90,000",
+      "90kTo120k": "€90,000 – €120,000",
+      "above120k": "€120,000+",
+      "flexible": "Flexible / Discuss with sales"
+    },
+    "preferredContact": "Preferred Contact Method",
+    "contactMethods": {
+      "phone": "Phone Call",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "message": "Message or Specific Questions",
+    "messagePlaceholder": "Tell us which floor, orientation, parking needs, or timeline you have in mind...",
+    "privacyConsent": "I agree that SHERIAG may process my contact details to respond to my inquiry in accordance with the Privacy Policy.",
+    "submitQuote": "Submit Quote Request",
+    "submitContact": "Send Message",
+    "submitting": "Sending your request...",
+    "successQuoteTitle": "Thank you! Your quote request has been received.",
+    "successQuoteText": "A member of the SHERIAG team in Gostivar will contact you within 24 hours via your preferred method.",
+    "successContactTitle": "Thank you! Your message has been sent.",
+    "successContactText": "We appreciate your interest in SHERIAG and will reply shortly.",
+    "sendAnother": "Submit another inquiry",
+    "errorGeneric": "Something went wrong while sending your request. Please try again or call us directly.",
+    "errorRateLimit": "Too many requests submitted recently. Please wait a minute and try again.",
+    "validation": {
+      "nameMin": "Please enter your full name (at least 2 characters).",
+      "phoneMin": "Please enter a valid phone or WhatsApp number (at least 6 digits).",
+      "emailInvalid": "Please enter a valid email address.",
+      "residenceRequired": "Please select a residence of interest.",
+      "apartmentTypeRequired": "Please select a preferred apartment type.",
+      "budgetRequired": "Please select a budget range.",
+      "contactMethodRequired": "Please choose how we should contact you.",
+      "messageMin": "Please enter a short message (at least 10 characters).",
+      "privacyRequired": "Please accept the privacy consent to submit the form."
+    }
+  },
+  "footer": {
+    "description": "SHERIAG is a residential construction and real-estate development company in Gostivar, North Macedonia. We develop and build exclusively our own residential projects.",
+    "quickLinks": "Quick Links",
+    "ourResidences": "Our Residences",
+    "contactUs": "Contact & Office",
+    "privacyPolicy": "Privacy Policy",
+    "rightsReserved": "© {year} SHERIAG Gostivar. All rights reserved.",
+    "developerNote": "Direct Developer Sales — Built for Gostivar."
+  },
+  "privacyPage": {
+    "eyebrow": "Legal",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: October 2026 (Placeholder stub — TODO legal review)",
+    "intro": "SHERIAG ('we', 'our', or 'us'), based in Gostivar, North Macedonia, respects your privacy and is committed to protecting the personal data you share with us when inquiring about our residential developments.",
+    "section1Title": "1. Information We Collect",
+    "section1Body": "When you submit our Quote Request or Contact forms, we collect your name, phone number, email address, preferred contact method, and your apartment preferences.",
+    "section2Title": "2. How We Use Your Information",
+    "section2Body": "We use your information exclusively to respond to your inquiry, provide apartment availability and pricing details, and schedule office or site visits in Gostivar. We never sell or rent your data to third parties.",
+    "section3Title": "3. Data Retention & Your Rights",
+    "section3Body": "You may request access to, correction of, or deletion of your personal contact details at any time by emailing info@sheriag.mk (TODO)."
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found",
+    "description": "The page or residential complex you are looking for may have been moved or does not exist.",
+    "backHome": "Return to Home",
+    "viewResidences": "Browse Residential Areas"
+  },
+  "lightbox": {
+    "close": "Close gallery viewer",
+    "previous": "Previous image",
+    "next": "Next image",
+    "imageCount": "Image {current} of {total}"
+  }
+}

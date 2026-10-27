@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Residence Two — Completed Building">
+  
+      <defs>
+        <linearGradient id="heroSky" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#2C3E50"/>
+          <stop offset="55%" stop-color="#58748C"/>
+          <stop offset="100%" stop-color="#D49B6A"/>
+        </linearGradient>
+        <linearGradient id="glassRef" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#8FB3C9"/>
+          <stop offset="60%" stop-color="#436076"/>
+          <stop offset="100%" stop-color="#273947"/>
+        </linearGradient>
+        <linearGradient id="warmRoom" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#FFE6BA"/>
+          <stop offset="100%" stop-color="#E47A18"/>
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="1000" fill="url(#heroSky)"/>
+      <!-- Shar Mountain range silhouette -->
+      <polygon points="0,770 280,490 610,620 980,430 1320,580 1600,460 1600,770" fill="#1E2933" opacity="0.55"/>
+      <!-- Ground Plaza -->
+      <rect x="0" y="770" width="1600" height="230" fill="#23272E"/>
+      <polygon points="450,770 1150,770 1480,1000 120,1000" fill="#323740"/>
+      <!-- Left Architectural Wing -->
+      <rect x="210" y="326" width="400" height="444" rx="4" fill="#EAE6DD" stroke="#16191F" stroke-width="4"/>
+      <!-- Right Architectural Wing -->
+      <rect x="1040" y="346" width="340" height="424" rx="4" fill="#DFDBD0" stroke="#16191F" stroke-width="4"/>
+      <!-- Main Central Tower Volume -->
+      <rect x="540" y="266" width="550" height="504" rx="4" fill="#F8F6F1" stroke="#16191F" stroke-width="5"/>
+      <!-- Cantilevered Roof Cornice & Brand Fin -->
+      <rect x="520" y="252" width="590" height="16" fill="#16191F"/>
+      <rect x="540" y="280" width="550" height="10" fill="#E46800"/>
+      <rect x="588" y="290" width="14" height="409" fill="#E46800"/>
+      <!-- Main Tower Recessed Balconies & Warm Lit Windows -->
+      
+            <line x1="540" y1="364" x2="1090" y2="364" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="310" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="310" width="140" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="310" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="340" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+            <line x1="540" y1="432" x2="1090" y2="432" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="378" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="378" width="140" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="378" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="408" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+            <line x1="540" y1="500" x2="1090" y2="500" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="446" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="446" width="140" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="446" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="476" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+            <line x1="540" y1="568" x2="1090" y2="568" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="514" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="514" width="140" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="514" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="544" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+            <line x1="540" y1="636" x2="1090" y2="636" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="582" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="582" width="140" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="582" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="612" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+            <line x1="540" y1="704" x2="1090" y2="704" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="650" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="650" width="140" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="650" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="680" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+            <line x1="540" y1="772" x2="1090" y2="772" stroke="#CFC9BC" stroke-width="4"/>
+            <rect x="630" y="718" width="120" height="46" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="775" y="718" width="140" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="940" y="718" width="120" height="46" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2.5"/>
+            <rect x="768" y="748" width="154" height="18" fill="#FFFFFF" fill-opacity="0.55" stroke="#16191F" stroke-width="1.5"/>
+          
+      <!-- Left Wing Windows -->
+      
+            <rect x="255" y="358" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="390" y="358" width="110" height="42" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="255" y="426" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="390" y="426" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="255" y="494" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="390" y="494" width="110" height="42" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="255" y="562" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="390" y="562" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="255" y="630" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="390" y="630" width="110" height="42" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="255" y="698" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="390" y="698" width="110" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+      <!-- Right Wing Windows -->
+      
+            <rect x="1115" y="381" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="1235" y="381" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="1115" y="449" width="100" height="42" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2"/>
+            <rect x="1235" y="449" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="1115" y="517" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="1235" y="517" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="1115" y="585" width="100" height="42" rx="2" fill="url(#warmRoom)" stroke="#16191F" stroke-width="2"/>
+            <rect x="1235" y="585" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+            <rect x="1115" y="653" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+            <rect x="1235" y="653" width="100" height="42" rx="2" fill="url(#glassRef)" stroke="#16191F" stroke-width="2"/>
+          
+      <!-- Double-Height Glazed Lobby -->
+      <rect x="540" y="695" width="550" height="75" fill="#16191F"/>
+      <rect x="630" y="707" width="370" height="63" fill="url(#warmRoom)" opacity="0.9"/>
+      <!-- Trees & Landscape -->
+      <circle cx="160" cy="705" r="68" fill="#4E6B4A"/>
+      <rect x="154" y="740" width="12" height="35" fill="#2D2520"/>
+      <circle cx="1440" cy="700" r="74" fill="#4E6B4A"/>
+      <rect x="1434" y="735" width="12" height="38" fill="#2D2520"/>
+    
+  <!-- Subtle architectural watermark pill top-right -->
+  <g transform="translate(1180, 40)" opacity="0.85">
+    <rect x="0" y="0" width="370" height="44" rx="22" fill="#0F1217" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1"/>
+    <circle cx="24" cy="22" r="5" fill="#E46800"/>
+    <text x="40" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="1.5">SHERIAG • RESIDENCE TWO</text>
+  </g>
+</svg>

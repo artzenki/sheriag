@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" role="img" aria-label="Residence Two — Apartment Interior">
+  
+      <defs>
+        <linearGradient id="wallGrad" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#F6F3EC"/>
+          <stop offset="50%" stop-color="#EAE3D5"/>
+          <stop offset="100%" stop-color="#D9CEBC"/>
+        </linearGradient>
+        <linearGradient id="skyView" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#8AB0C9"/>
+          <stop offset="65%" stop-color="#D7E4EC"/>
+          <stop offset="100%" stop-color="#F4E3C9"/>
+        </linearGradient>
+        <linearGradient id="sunGlow" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#E46800" stop-opacity="0.28"/>
+          <stop offset="100%" stop-color="#E46800" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <rect width="1600" height="1000" fill="url(#wallGrad)"/>
+      <!-- Ceiling & Warm Oak Floor -->
+      <polygon points="0,0 1600,0 1340,160 260,160" fill="#FAF8F4"/>
+      <polygon points="260,730 1340,730 1600,1000 0,1000" fill="#C9B296"/>
+      <!-- Floorboard perspective lines -->
+      <line x1="500" y1="730" x2="300" y2="1000" stroke="#B69D7F" stroke-width="2"/>
+      <line x1="800" y1="730" x2="800" y2="1000" stroke="#B69D7F" stroke-width="2"/>
+      <line x1="1100" y1="730" x2="1300" y2="1000" stroke="#B69D7F" stroke-width="2"/>
+      <!-- Floor-to-ceiling panoramic window -->
+      <rect x="340" y="160" width="920" height="570" fill="url(#skyView)" stroke="#16191F" stroke-width="10"/>
+      <!-- Distant mountains & cityscape -->
+      <polygon points="340,560 560,410 780,500 1040,360 1260,480 1260,730 340,730" fill="#5D7466" opacity="0.6"/>
+      <polygon points="340,620 640,510 920,580 1260,490 1260,730 340,730" fill="#3B4D43" opacity="0.75"/>
+      <!-- Window mullions -->
+      <line x1="646" y1="160" x2="646" y2="730" stroke="#16191F" stroke-width="8"/>
+      <line x1="952" y1="160" x2="952" y2="730" stroke="#16191F" stroke-width="8"/>
+      <line x1="340" y1="580" x2="1260" y2="580" stroke="#16191F" stroke-width="5"/>
+      <!-- Sunlight cast across room -->
+      <polygon points="340,160 1260,160 1550,1000 100,1000" fill="url(#sunGlow)"/>
+      <!-- Designer Lounge Sofa -->
+      <rect x="440" y="640" width="720" height="105" rx="16" fill="#F8F6F1" stroke="#D5CEC2" stroke-width="3"/>
+      <rect x="410" y="685" width="780" height="65" rx="12" fill="#EAE4D8"/>
+      <rect x="640" y="780" width="320" height="32" rx="8" fill="#16191F"/>
+      <rect x="740" y="762" width="120" height="18" rx="4" fill="#E46800"/>
+    
+  <!-- Subtle architectural watermark pill top-right -->
+  <g transform="translate(1180, 40)" opacity="0.85">
+    <rect x="0" y="0" width="370" height="44" rx="22" fill="#0F1217" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="1"/>
+    <circle cx="24" cy="22" r="5" fill="#E46800"/>
+    <text x="40" y="27" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="1.5">SHERIAG • INTERIOR</text>
+  </g>
+</svg>

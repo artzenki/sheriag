@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "siteName": "SHERIAG — Ndërtim dhe Zhvillim Rezidencial në Gostivar",
+    "defaultDescription": "SHERIAG zhvillon dhe ndërton banesa moderne, parkingje dhe hapësira të gjelbra në Gostivar, Maqedonia e Veriut. Shitje direkte nga investitori.",
+    "homeTitle": "SHERIAG | Ndërtojmë Shtëpi për Gostivarin",
+    "homeDescription": "Zbuloni komplekset rezidenciale të SHERIAG në Gostivar. 4 objekte të përfunduara dhe 1 kompleks i ri banesor në ndërtim e sipër.",
+    "residencesTitle": "Zonat Rezidenciale | SHERIAG Gostivar",
+    "residencesDescription": "Shikoni të gjitha komplekset banesore të SHERIAG në Gostivar — katër objekte të përfunduara dhe kompleksi ynë më i ri në ndërtim.",
+    "aboutTitle": "Rreth SHERIAG | Investitor dhe Ndërtues në Gostivar",
+    "aboutDescription": "SHERIAG zhvillon dhe ndërton ekskluzivisht projektet e veta banesore në Gostivar. Mësoni më shumë për përkushtimin tonë ndaj cilësisë, parkingut dhe gjelbërimit.",
+    "quoteTitle": "Kërko Ofertë | SHERIAG Gostivar",
+    "quoteDescription": "Informohuni drejtpërdrejt te SHERIAG për banesat e lira,llojshmërinë e planimetrive dhe çmimet në Gostivar. Pa ndërmjetës dhe pa provizion.",
+    "contactTitle": "Na Kontaktoni | SHERIAG Gostivar",
+    "contactDescription": "Vizitoni zyrën e shitjes të SHERIAG në Gostivar ose na kontaktoni përmes telefonit, emailit apo WhatsApp-it.",
+    "privacyTitle": "Politika e Privatësisë | SHERIAG Gostivar",
+    "privacyDescription": "Si i mbledh, përdor dhe mbron SHERIAG të dhënat tuaja personale kur interesoheni për pronat tona rezidenciale."
+  },
+  "nav": {
+    "home": "Ballina",
+    "residences": "Zonat Rezidenciale",
+    "about": "Rreth Nesh",
+    "quote": "Kërko Ofertë",
+    "contact": "Kontakt",
+    "getQuoteBtn": "Kërko Ofertë",
+    "openMenu": "Hap menynë e navigimit",
+    "closeMenu": "Mbyll menynë e navigimit",
+    "language": "Gjuha",
+    "callUs": "Na Telefononi"
+  },
+  "common": {
+    "gostivarLocation": "Gostivar, Maqedonia e Veriut",
+    "completed": "I Përfunduar",
+    "underConstruction": "Në Ndërtim",
+    "viewResidence": "Shiko rezidencën",
+    "requestQuote": "Kërko Ofertë",
+    "exploreResidences": "Shiko Rezidencat",
+    "learnMore": "Mëso më shumë",
+    "backToResidences": "Kthehu te të gjitha rezidencat",
+    "floors": "Kate",
+    "apartments": "Banesa",
+    "parkingSpaces": "Vendparkime",
+    "apartmentSizeRange": "Sipërfaqet e Banesave",
+    "yearCompleted": "Viti i Përfundimit",
+    "expectedCompletion": "Përfundimi i Planifikuar",
+    "walkingMinutes": "{minutes} min në këmbë",
+    "all": "Të gjitha",
+    "scrollDown": "Shfleto më poshtë",
+    "todoPlaceholderNote": "Të dhëna ilustruese — për t'u konfirmuar nga SHERIAG"
+  },
+  "amenities": {
+    "parking": "Parking Nëntokësor dhe i Jashtëm i Dedikuar",
+    "park": "Park Privat i Gjelbëruar dhe Oborr Çlodhës",
+    "playground": "Kënd Lojërash i Sigurt për Fëmijë",
+    "elevator": "Ashensorë Modernë me Shpejtësi të Lartë",
+    "security": "Hyrje e Kontrolluar dhe Mbikëqyrje me Kamera 24/7",
+    "storage": "Depo Private në Bodrum për Banorët",
+    "insulation": "Izolim Termik dhe Akustik i Standardit të Lartë",
+    "heating": "Sistem Efikas për Ngrohje dhe Ftohje",
+    "balcony": "Ballkone dhe Tarraca me Ndriçim Natyror",
+    "commercial": "Hapësira Afariste në përdhesë"
+  },
+  "nearbyTypes": {
+    "center": "Qendra e Qytetit",
+    "school": "Shkollë dhe Çerdhe",
+    "market": "Supermarket dhe Tregti",
+    "park": "Park Publik dhe Shëtitore",
+    "health": "Qendër Shëndetësore dhe Barnatore",
+    "transport": "Rrugë Kryesore dhe Transport"
+  },
+  "stages": {
+    "foundation": "Gërmimi dhe Themelet",
+    "structure": "Konstruksioni Beton-Arme",
+    "facade": "Fasada Termike dhe Dritaret",
+    "interior": "Instalimet dhe Punimet e Brendshme",
+    "handover": "Rregullimi i Oborrit dhe Dorëzimi i Çelësave"
+  },
+  "galleryCategories": {
+    "all": "Të Gjitha Fotot",
+    "exterior": "Pamja e Jashtme",
+    "interior": "Enterieri",
+    "surroundings": "Parku dhe Rrethina",
+    "render": "Renderë Arkitektonikë",
+    "construction": "Kantieri i Ndërtimit"
+  },
+  "home": {
+    "heroEyebrow": "Gostivar, Maqedonia e Veriut",
+    "heroTitle": "Ndërtojmë Shtëpi për Gostivarin.",
+    "heroSubtitle": "Objekte banesore të planifikuara me kujdes, me parking të dedikuar, parqe të gjelbëruara dhe ndërtim cilësor — të zhvilluara dhe të ndërtuara ekskluzivisht nga SHERIAG.",
+    "heroPrimaryCta": "Shiko Rezidencat",
+    "heroSecondaryCta": "Kërko Ofertë",
+    "stats": {
+      "deliveredLabel": "Objekte të Dorëzuara",
+      "deliveredNote": "Të përfunduara në Gostivar",
+      "apartmentsLabel": "Banesa Familjare",
+      "apartmentsNote": "Në të gjitha projektet",
+      "experienceLabel": "Vite Përvojë",
+      "experienceNote": "Traditë vendore (TODO)",
+      "underConstructionLabel": "Rezidencë e Re",
+      "underConstructionNote": "Aktualisht në ndërtim"
+    },
+    "residencesSection": {
+      "eyebrow": "Dëshmi e Punës Sonë",
+      "title": "Zonat Tona Rezidenciale të Përfunduara",
+      "subtitle": "Çdo objekt i SHERIAG projektohet, zhvillohet dhe ndërtohet nga ekipi ynë — duke ndërthurur planimetri funksionale me parking të organizuar dhe hapësira të gjelbra.",
+      "viewAllBtn": "Shiko të Gjitha Zonat Rezidenciale"
+    },
+    "nowBuilding": {
+      "eyebrow": "Në Ndërtim në Gostivar",
+      "badge": "Kompleks i Ri",
+      "progressLabel": "Progresi i Përgjithshëm i Ndërtimit",
+      "currentStageLabel": "Faza Aktuale",
+      "completionLabel": "Përfundimi i Planifikuar",
+      "ctaBtn": "Shiko Projektin",
+      "quoteBtn": "Pyet për Banesat e Lira"
+    },
+    "whySheriag": {
+      "eyebrow": "Pse të Zgjidhni SHERIAG",
+      "title": "Përgjegjësi e Plotë nga Themeli deri te Dorëzimi i Çelësave",
+      "subtitle": "Ndryshe nga kompanitë që ndërtojnë me porosi për palë të treta, SHERIAG zhvillon dhe ndërton vetëm projektet e veta banesore në Gostivar.",
+      "items": {
+        "ownProjects": {
+          "title": "Ndërtojmë Vetëm atë që Zhvillojmë Vetë",
+          "description": "SHERIAG nuk kryen punime kontraktuale për kompani të tjera. I gjithë përkushtimi ynë inxhinierik shkon vetëm në objektet tona."
+        },
+        "directBuy": {
+          "title": "Drejt nga Investitori pa Ndërmjetës",
+          "description": "Blini drejtpërdrejt nga kompania që projekton dhe ndërton shtëpinë tuaj — me çmime transparente, dokumentacion të rregullt dhe pa provizione agjencie."
+        },
+        "parkingAndParks": {
+          "title": "Parking dhe Parqe të Planifikuara",
+          "description": "Komoditeti i banimit fillon që në hyrje të kompleksit. Çdo projekt ka parking të bollshëm për banorët dhe kënde të gjelbra pushimi."
+        },
+        "localRooted": {
+          "title": "Ekip Vendor në Gostivar",
+          "description": "Jemi vendas në Gostivar. Qoftë për familjet këtu apo bashkatdhetarët në diasporë, jemi pranë jush para, gjatë dhe pas blerjes."
+        }
+      },
+      "modal": {
+        "close": "Mbyll",
+        "items": {
+          "ownProjects": {
+            "lead": "SHERIAG zhvillon dhe ndërton vetëm projektet e veta banesore në Gostivar. Çdo punim inxhinierik, statik dhe arkitektonik zbatohet nën kontrollin tonë të drejtpërdrejtë.",
+            "points": [
+              "Zero punime me porosi për kompani të treta — fokus 100% në ndërtesat tona",
+              "Kontroll i rreptë i cilësisë nga themelet beton-arme deri te izolimi dhe fasada",
+              "Përgjegjësi e plotë dhe garanci e drejtpërdrejtë pa kalim përgjegjësie te nënkontraktorët"
+            ],
+            "commitment": "Garancia jonë më e madhe është që emri ynë qëndron në ballë të çdo objekti që ndërtojmë."
+          },
+          "directBuy": {
+            "lead": "Blerja e një banese bëhet drejtpërdrejt nga investitori dhe ndërtuesi SHERIAG, pa agjenci ndërmjetëse dhe pa tarifa të fshehura.",
+            "points": [
+              "0% komision agjencie ose ndërmjetësimi — çmime reale nga zhvilluesi",
+              "Dokumentacion i pastër ligjor, leje ndërtimi të rregullta dhe fletë posedimi",
+              "Mundësi pagese fleksibile me këste të lidhura me fazat e ndërtimit"
+            ],
+            "commitment": "Komunikoni drejtpërdrejt me ata që vendosin çdo tullë në shtëpinë tuaj të ardhshme."
+          },
+          "parkingAndParks": {
+            "lead": "Komoditeti i banimit nuk mbaron te dera e banesës. Te SHERIAG, parkingu dhe sipërfaqet e gjelbra janë pjesë thelbësore e çdo plani.",
+            "points": [
+              "Parkingje të dedikuara nëntokësore dhe të jashtme për të gjitha njësitë",
+              "Hapësira të gjelbëruara private dhe kënde të sigurta lojërash për fëmijë",
+              "Lëvizje e qetë dhe e mbrojtur larg qarkullimit kryesor rrugor"
+            ],
+            "commitment": "Ndërtojmë komunitete familjare të qëndrueshme ku fëmijët rriten në siguri dhe natyrë."
+          },
+          "localRooted": {
+            "lead": "Ekipi ynë jeton, punon dhe zhvillohet në Gostivar. Njohim në detaje çdo lagje, infrastrukturën dhe nevojat e komunitetit vendas.",
+            "points": [
+              "Prani e përhershme në zyrën tonë në Gostivar për çdo pyetje apo takim",
+              "Kujdes i veçantë për bashkatdhetarët nga diaspora gjatë gjithë procesit të blerjes",
+              "Mbështetje dhe asistencë teknike edhe pas dorëzimit përfundimtar të çelësave"
+            ],
+            "commitment": "Jemi fqinjët tuaj në Gostivar — partneri juaj i besuar për investim të sigurt."
+          }
+        }
+      }
+    },
+    "gallerySection": {
+      "eyebrow": "Arkitektura dhe Renderët",
+      "title": "Pamje nga Objektet Tona",
+      "subtitle": "Shfletoni renderët arkitektonikë, fasadat, planimetritë e brendshme dhe parqet e komplekseve SHERIAG."
+    },
+    "mapSection": {
+      "eyebrow": "Lokacionet në Gostivar",
+      "title": "Eksploroni Lagjet Tona",
+      "subtitle": "Klikoni mbi çdo pikë në hartë për të parë kompleksin banesor, distancat dhe detajet e lokacionit.",
+      "openResidence": "Hap Faqen e Rezidencës"
+    },
+    "ctaBand": {
+      "eyebrow": "Shitje Direkte nga Investitori",
+      "title": "Po kërkoni shtëpinë tuaj të re në Gostivar?",
+      "subtitle": "Kërkoni një ofertë të personalizuar sot ose caktoni një takim me ekipin tonë të shitjes dhe inxhinierisë.",
+      "primaryBtn": "Kërko Ofertë Sot",
+      "secondaryBtn": "Kontakto Zyrën Tonë"
+    }
+  },
+  "residencesPage": {
+    "eyebrow": "Portofoli",
+    "title": "Zonat Tona Rezidenciale në Gostivar",
+    "intro": "SHERIAG zhvillon komplekse të plota banesore me apartamente moderne, parking të organizuar dhe parqe për komunitetin. Shfletoni katër rezidencat tona të përfunduara dhe kompleksin më të ri që po ndërtohet aktualisht.",
+    "filterAll": "Të Gjitha ({count})",
+    "filterCompleted": "Të Përfunduara ({count})",
+    "filterUnderConstruction": "Në Ndërtim ({count})",
+    "spotlightBanner": "Rezervimet janë të hapura për banesat në kompleksin tonë më të ri rezidencial.",
+    "bottomCtaTitle": "Nuk jeni të sigurt cila planimetri i përshtatet familjes suaj?",
+    "bottomCtaText": "Bisedoni drejtpërdrejt me ekipin tonë për të krahasuar banesat e lira, orientimin dhe mënyrat e pagesës.",
+    "bottomCtaBtn": "Kërko Ofertë të Personalizuar"
+  },
+  "residenceDetail": {
+    "breadcrumbHome": "Ballina",
+    "breadcrumbResidences": "Zonat Rezidenciale",
+    "requestQuoteBtn": "Kërko Ofertë",
+    "viewGalleryBtn": "Shiko Galerinë",
+    "overviewEyebrow": "Përmbledhje e Projektit",
+    "overviewTitle": "Projektuar për Jetesë Komode Çdo Ditë",
+    "highlightsTitle": "Veçoritë Kryesore të Objektit",
+    "amenitiesEyebrow": "Standardet e Ndërtimit",
+    "amenitiesTitle": "Përparësitë dhe Infrastruktura",
+    "amenitiesSubtitle": "E planifikuar që në fillim për të garantuar rehati, siguri dhe vlerë afatgjatë për banorët.",
+    "apartmentsEyebrow": "Planimetritë dhe Tipologjitë",
+    "apartmentsTitle": "Llojet e Banesave",
+    "apartmentsSubtitle": "Na kontaktoni për planimetritë e detajuara arkitektonike dhe banesat e lira në çdo kat.",
+    "askAvailabilityBtn": "Pyet për Disponueshmërinë",
+    "galleryEyebrow": "Galeria Vizuale",
+    "galleryTitle": "Fotografi dhe Renderë të Projektit",
+    "constructionEyebrow": "Ndjekja e Punimeve",
+    "constructionTitle": "Progresi i Ndërtimit dhe Njoftimet",
+    "constructionSubtitle": "Ndiqni fazat e ndërtimit të kompleksit tonë më të ri banesor në Gostivar.",
+    "overallProgress": "Përfundimi i Përgjithshëm",
+    "currentPhase": "Faza Aktuale",
+    "stageDone": "E Përfunduar",
+    "stageCurrent": "Në Punim",
+    "stageUpcoming": "Faza e Radhës",
+    "recentUpdatesTitle": "Kronika e Punimeve në Kantier",
+    "locationEyebrow": "Lagjja dhe Lidhshmëria",
+    "locationTitle": "Lokacioni dhe Pikat përreth",
+    "locationSubtitle": "Pozicion i përshtatshëm në Gostivar me çdo shërbim të përditshëm pak minuta larg në këmbë.",
+    "nearbyHeading": "Distancat në Këmbë",
+    "interestEyebrow": "Interesim Direkt",
+    "interestTitle": "Të interesuar për {name}?",
+    "interestSubtitle": "Lini të dhënat tuaja dhe ekipi ynë do t'ju kontaktojë me banesat e lira dhe çmimet.",
+    "otherResidencesEyebrow": "Të Tjera nga SHERIAG",
+    "otherResidencesTitle": "Shikoni Zonat e Tjera Rezidenciale",
+    "mobileCall": "Telefono",
+    "mobileQuote": "Kërko Ofertë"
+  },
+  "aboutPage": {
+    "eyebrow": "Rreth SHERIAG",
+    "title": "Ndërtojmë të Ardhmen Rezidenciale të Gostivarit me Përgjegjësi Direkte",
+    "subtitle": "SHERIAG është kompani e pavarur ndërtimi dhe zhvillimi të patundshmërive në Gostivar, Maqedonia e Veriut. Ne projektojmë, financojmë dhe ndërtojmë ekskluzivisht projektet tona banesore.",
+    "storyEyebrow": "Filozofia Jonë",
+    "storyTitle": "Pse Ndërtojmë Vetëm Projektet Tona",
+    "storyP1": "Në sektorin e ndërtimit, shumë objekte ndahen mes një investitori që kërkon uljen e kostos dhe një nënkontraktori që vetëm zbaton kontratën. Te SHERIAG, ne zgjodhëm një rrugë tjetër që në ditën e parë.",
+    "storyP2": "SHERIAG zhvillon dhe ndërton VETËM komplekset e veta rezidenciale. Ne nuk bëjmë punime kontraktuale për kompani të tjera. Kjo do të thotë se çdo shtyllë betoni, çdo mur akustik, çdo parking dhe çdo park mban emrin dhe garancinë tonë.",
+    "storyP3": "Me katër objekte të përfunduara në Gostivar dhe kompleksin e pestë aktualisht në ndërtim, ne u shërbejmë familjeve vendore si dhe bashkatdhetarëve nga diaspora që kërkojnë një shtëpi të sigurt dhe moderne në vendlindje.",
+    "valuesEyebrow": "Parimet Themelore",
+    "valuesTitle": "Misioni dhe Vlerat",
+    "values": {
+      "quality": {
+        "title": "Cilësi Konstruktive pa Kompromis",
+        "text": "Materiale të certifikuara, inxhinieri sizmike rigoroze dhe izolim bashkëkohor termik e akustik në çdo kat."
+      },
+      "community": {
+        "title": "Mjedise të Plota Jete",
+        "text": "Ne besojmë se një ndërtesë banimi nuk është e plotë pa parking të sigurt, oborre të gjelbëruara dhe hapësirë për familjet."
+      },
+      "transparency": {
+        "title": "Marrëdhënie të Drejtpërdrejta dhe të Sinqerta",
+        "text": "Kontrata të qarta, informim i rregullt mbi ecurinë e punimeve dhe komunikim direkt me ndërtuesin deri në dorëzimin e çelësave."
+      }
+    },
+    "timelineEyebrow": "Historiku",
+    "timelineTitle": "Kronologjia e Objekteve Tona në Gostivar",
+    "timelineSubtitle": "Çdo hap më poshtë pasqyron portofolin tonë të ndërtimit në Gostivar.",
+    "teamEyebrow": "Drejtuesit dhe Inxhinieria",
+    "teamTitle": "Ekipi Ynë Vendor",
+    "teamSubtitle": "Profile ilustruese më poshtë — për t'u zëvendësuar me fotografitë dhe biografitë e ekipit të SHERIAG.",
+    "team": {
+      "member1": {
+        "name": "Drejtori Ekzekutiv (TODO)",
+        "role": "Themelues dhe Drejtim i Përgjithshëm",
+        "bio": "Udhëheq vizionin e projekteve, zhvillimin e lokacioneve dhe standardet afatgjata të SHERIAG në Gostivar."
+      },
+      "member2": {
+        "name": "Kryeinxhinieri i Ndërtimit (TODO)",
+        "role": "Inxhinieri Konstruktive dhe Mbikëqyrje e Kantierit",
+        "bio": "Drejton zbatimin statik, kontrollin e materialeve dhe sigurinë në të gjitha kantieret e SHERIAG."
+      },
+      "member3": {
+        "name": "Kryearkitekti (TODO)",
+        "role": "Planifikim Arkitektonik dhe Urbanistik",
+        "bio": "Projekton planimetritë funksionale me dritë natyrore, fasadat, qarkullimin e parkingut dhe parqet e brendshme."
+      },
+      "member4": {
+        "name": "Përgjegjësi për Marrëdhënie me Blerësit (TODO)",
+        "role": "Shitje Direkte dhe Këshillim për Klientët",
+        "bio": "Shoqqëron blerësit vendorë dhe ata nga diaspora në zgjedhjen e banesës, dokumentacionin noterial dhe pranimin e çelësave."
+      }
+    }
+  },
+  "quotePage": {
+    "eyebrow": "Drejt nga Investitori",
+    "title": "Kërko Ofertë për Banesë",
+    "subtitle": "Plotësoni preferencat tuaja më poshtë. Ekipi ynë i shitjes në Gostivar do të përgatisë një pasqyrë të detajuar të banesave të lira, planimetrive dhe çmimeve.",
+    "reassuranceTitle": "Pse të komunikoni drejtpërdrejt?",
+    "reassurance1Title": "Përgjigjemi brenda 24 orëve",
+    "reassurance1Text": "Merrni përgjigje të shpejta dhe të sakta nga ekipi ynë në Gostivar.",
+    "reassurance2Title": "Pa asnjë detyrim",
+    "reassurance2Text": "Shqyrtoni planimetritë, orientimin dhe kushtet e pagesës me qetësi.",
+    "reassurance3Title": "Drejt nga ndërtuesi",
+    "reassurance3Text": "0% provizion agjencie dhe komunikim i drejtpërdrejtë me ndërtuesin e shtëpisë suaj.",
+    "directContactTitle": "Dëshironi të bisedoni menjëherë?",
+    "directContactText": "Na kontaktoni në zyrën tonë në Gostivar me telefon, WhatsApp ose email gjatë orarit të punës."
+  },
+  "contactPage": {
+    "eyebrow": "Kontakt",
+    "title": "Kontaktoni SHERIAG në Gostivar",
+    "subtitle": "Qoftë nëse jetoni në Gostivar apo po planifikoni një vizitë nga diaspora, ekipi ynë është i gatshëm t'ju presë në zyrë ose në kantier.",
+    "addressCardTitle": "Adresa e Zyrës",
+    "addressValue": "Bul. Vëllezërit Gjinoski (Placeholder TODO), 1230 Gostivar, Maqedonia e Veriut",
+    "addressNote": "Në qendër të Gostivarit — me parking të qasshëm",
+    "phoneCardTitle": "Telefon dhe WhatsApp",
+    "phoneValue": "+389 42 000 000 (TODO)",
+    "whatsappValue": "+389 70 000 000 (TODO)",
+    "phoneNote": "Në dispozicion edhe në WhatsApp për bashkatdhetarët",
+    "emailCardTitle": "Adresa Elektronike",
+    "emailValue": "info@sheriag.mk (TODO)",
+    "salesEmailValue": "sales@sheriag.mk (TODO)",
+    "emailNote": "Kthejmë përgjigje brenda një dite pune",
+    "hoursTitle": "Orari i Punës",
+    "hoursWeekdays": "E Hënë – E Premte: 08:30 – 17:00",
+    "hoursSaturday": "E Shtunë: 09:00 – 14:00",
+    "hoursSunday": "E Diel: Mbyllur (Me termin paraprak për vizitorët nga diaspora)",
+    "formSectionTitle": "Na Dërgoni Mesazh",
+    "formSectionSubtitle": "Keni pyetje rreth objekteve të përfunduara ose kompleksit të ri në ndërtim? Na shkruani më poshtë.",
+    "mapTitle": "Zyra Jonë në Gostivar"
+  },
+  "forms": {
+    "fullName": "Emri dhe Mbiemri",
+    "fullNamePlaceholder": "p.sh. Arben Ibrahimi",
+    "phone": "Numri i Telefonit / WhatsApp",
+    "phonePlaceholder": "p.sh. +389 70 123 456 ose +41 79 123 45 67",
+    "email": "Adresa e Emailit",
+    "emailPlaceholder": "emri@shembull.com",
+    "residence": "Kompleksi Rezidencial",
+    "residenceSelectPlaceholder": "Zgjidhni kompleksin rezidencial",
+    "residenceAny": "Ende i pavendosur / Pyetje e përgjithshme",
+    "apartmentType": "Lloji i Preferuar i Banesës",
+    "apartmentTypePlaceholder": "Zgjidhni madhësinë / tipologjinë",
+    "apartmentTypeAny": "Çdo tipologji / Kërkoj rekomandim",
+    "apartmentTypes": {
+      "1br": "Banesë me 1 dhomë gjumi (rreth 52–62 m²)",
+      "2br": "Banesë familjare me 2 dhoma gjumi (rreth 74–88 m²)",
+      "3br": "Banesë e gjerë me 3 dhoma gjumi (rreth 98–120 m²)",
+      "penthouse": "Banesë në kat të fundit / Dupleks (rreth 125–155 m²)"
+    },
+    "budgetRange": "Buxheti i Parashikuar",
+    "budgetPlaceholder": "Zgjidhni fashën e buxhetit",
+    "budgetRanges": {
+      "under60k": "Deri në 60.000 €",
+      "60kTo90k": "60.000 € – 90.000 €",
+      "90kTo120k": "90.000 € – 120.000 €",
+      "above120k": "Mbi 120.000 €",
+      "flexible": "Fleksibël / Për t'u diskutuar"
+    },
+    "preferredContact": "Mënyra e Preferuar e Kontaktit",
+    "contactMethods": {
+      "phone": "Thirrje Telefonike",
+      "email": "Email",
+      "whatsapp": "WhatsApp"
+    },
+    "message": "Mesazhi ose Pyetjet Tuaja",
+    "messagePlaceholder": "Na tregoni katin e preferuar, orientimin, nevojën për parking ose afatin që keni në mendje...",
+    "privacyConsent": "Pajtohem që SHERIAG të përpunojë të dhënat e mia të kontaktit për t'iu përgjigjur kërkesës sime sipas Politikës së Privatësisë.",
+    "submitQuote": "Dërgo Kërkesën për Ofertë",
+    "submitContact": "Dërgo Mesazhin",
+    "submitting": "Po dërgohet kërkesa...",
+    "successQuoteTitle": "Faleminderit! Kërkesa juaj për ofertë u pranua.",
+    "successQuoteText": "Një anëtar i ekipit të SHERIAG në Gostivar do t'ju kontaktojë brenda 24 orëve përmes mënyrës suaj të preferuar.",
+    "successContactTitle": "Faleminderit! Mesazhi juaj u dërgua me sukses.",
+    "successContactText": "E vlerësojmë interesimin tuaj për SHERIAG dhe do t'ju përgjigjemi së shpejti.",
+    "sendAnother": "Dërgo një kërkesë tjetër",
+    "errorGeneric": "Ndodhi një gabim gjatë dërgimit të kërkesës. Ju lutemi provoni përsëri ose na telefononi direkt.",
+    "errorRateLimit": "Keni dërguar disa kërkesa brenda një kohe të shkurtër. Ju lutemi prisni një minutë dhe provoni përsëri.",
+    "validation": {
+      "nameMin": "Ju lutemi shkruani emrin dhe mbiemrin (të paktën 2 shkronja).",
+      "phoneMin": "Ju lutemi shkruani një numër të vlefshëm telefoni ose WhatsApp (të paktën 6 shifra).",
+      "emailInvalid": "Ju lutemi shkruani një adresë të vlefshme emaili.",
+      "residenceRequired": "Ju lutemi zgjidhni kompleksin rezidencial.",
+      "apartmentTypeRequired": "Ju lutemi zgjidhni llojin e banesës.",
+      "budgetRequired": "Ju lutemi zgjidhni fashën e buxhetit.",
+      "contactMethodRequired": "Ju lutemi zgjidhni mënyrën e kontaktit.",
+      "messageMin": "Ju lutemi shkruani një mesazh të shkurtër (të paktën 10 karaktere).",
+      "privacyRequired": "Ju lutemi pranoni pëlqimin e privatësisë për të dërguar formularin."
+    }
+  },
+  "footer": {
+    "description": "SHERIAG është kompani ndërtimi dhe zhvillimi rezidencial në Gostivar, Maqedonia e Veriut. Ne zhvillojmë dhe ndërtojmë ekskluzivisht projektet tona banesore.",
+    "quickLinks": "Lidhje të Shpejta",
+    "ourResidences": "Rezidencat Tona",
+    "contactUs": "Kontakt dhe Zyra",
+    "privacyPolicy": "Politika e Privatësisë",
+    "rightsReserved": "© {year} SHERIAG Gostivar. Të gjitha të drejtat e rezervuara.",
+    "developerNote": "Shitje Direkte nga Investitori — Ndërtuar për Gostivarin."
+  },
+  "privacyPage": {
+    "eyebrow": "Informata Ligjore",
+    "title": "Politika e Privatësisë",
+    "lastUpdated": "Përditësuar së fundmi: Tetor 2026 (Tekst ilustrues — TODO rishikim ligjor)",
+    "intro": "SHERIAG ('ne'), me seli në Gostivar, Maqedonia e Veriut, respekton privatësinë tuaj dhe angazhohet të mbrojë të dhënat personale që ndani me ne kur interesoheni për objektet tona banesore.",
+    "section1Title": "1. Të Dhënat që Mbledhim",
+    "section1Body": "Kur plotësoni formularin për ofertë ose kontakt, ne mbledhim emrin tuaj, numrin e telefonit, adresën e emailit, mënyrën e preferuar të kontaktit dhe preferencat tuaja për banesë.",
+    "section2Title": "2. Si i Përdorim të Dhënat Tuaja",
+    "section2Body": "Të dhënat tuaja përdoren ekskluzivisht për t'iu përgjigjur kërkesës suaj, për t'ju dërguar informata mbi banesat e lira e çmimet, dhe për të organizuar vizita në zyrë apo kantier në Gostivar. Ne nuk i shesim dhe nuk i ndajmë të dhënat tuaja me palë të treta.",
+    "section3Title": "3. Ruajtja e të Dhënave dhe të Drejtat Tuaja",
+    "section3Body": "Në çdo kohë mund të kërkoni qasje, korrigjim ose fshirje të të dhënave tuaja personale duke na shkruar në info@sheriag.mk (TODO)."
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Faqja nuk u gjet",
+    "description": "Faqja ose kompleksi rezidencial që po kërkoni mund të jetë zhvendosur ose nuk ekziston.",
+    "backHome": "Kthehu në Ballinë",
+    "viewResidences": "Shiko Zonat Rezidenciale"
+  },
+  "lightbox": {
+    "close": "Mbyll galerinë",
+    "previous": "Fotoja paraprake",
+    "next": "Fotoja tjetër",
+    "imageCount": "Foto {current} nga {total}"
+  }
+}
