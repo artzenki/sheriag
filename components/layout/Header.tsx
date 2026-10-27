@@ -59,7 +59,6 @@ export function Header({ labels }: HeaderProps) {
     { href: '/', label: labels.home, exact: true },
     { href: '/residences', label: labels.residences, exact: false },
     { href: '/about', label: labels.about, exact: true },
-    { href: '/quote', label: labels.quote, exact: true },
     { href: '/contact', label: labels.contact, exact: true },
   ];
 
