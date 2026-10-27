@@ -5,6 +5,7 @@ import { Menu, Phone, X } from 'lucide-react';
 import { Link, usePathname } from '@/i18n/routing';
 import { Button } from '@/components/ui/Button';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
+import { LogoIcon, LogoWordmark } from '@/components/ui/Logo';
 import { cn } from '@/lib/utils';
 
 interface HeaderProps {
@@ -88,17 +89,16 @@ export function Header({ labels }: HeaderProps) {
         <div className="flex items-center">
           <Link
             href="/"
-            className="group inline-flex items-center gap-3 rounded-full border-r border-border pr-5 sm:pr-7 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+            aria-label="SHERIAG Construction"
+            className="group inline-flex items-center gap-3 rounded-full border-r border-border pr-4 sm:pr-6 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
           >
             <span
-              className="flex h-10 w-10 items-center justify-center rounded-full bg-brand text-surface transition-transform duration-300 group-hover:rotate-6"
+              className="flex h-10 w-10 items-center justify-center rounded-xl bg-brand text-surface shadow-sm transition-transform duration-300 group-hover:scale-105"
               aria-hidden="true"
             >
-              <span className="h-3.5 w-3.5 rounded-sm border-2 border-surface" />
+              <LogoIcon className="h-6 w-6 text-surface" />
             </span>
-            <span className="font-heading text-xl font-bold lowercase tracking-[-0.04em] text-ink sm:text-2xl">
-              sheriag
-            </span>
+            <LogoWordmark className="h-6 w-auto text-ink transition-colors group-hover:text-brand sm:h-7" />
           </Link>
 
           {/* Center-Left Navigation */}

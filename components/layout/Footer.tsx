@@ -5,6 +5,7 @@ import { Link, Locale } from '@/i18n/routing';
 import { residences } from '@/data/residences';
 import { Container } from '@/components/ui/Container';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
+import { LogoIcon, LogoWordmark } from '@/components/ui/Logo';
 
 interface FooterProps {
   locale: Locale;
@@ -81,12 +82,12 @@ export function Footer({ locale, labels }: FooterProps) {
           </Link>
         </div>
 
-        {/* Giant Outlined Watermark Wordmark (.elementor-element-070acd4: "spaciaz" -> "sheriag") */}
+        {/* Giant Outlined Watermark Wordmark */}
         <div
           aria-hidden="true"
-          className="pointer-events-none relative z-0 select-none overflow-hidden text-center font-heading text-[72px] font-bold lowercase leading-[0.85] tracking-[-0.04em] spaciaz-outline-light sm:text-[135px] md:text-[175px] lg:text-[225px] -mb-6 sm:-mb-12"
+          className="pointer-events-none relative z-0 mx-auto -mb-6 flex select-none justify-center px-4 sm:-mb-12"
         >
-          sheriag
+          <LogoWordmark className="h-auto w-full max-w-4xl text-surface/[0.07] sm:max-w-5xl" />
         </div>
 
         {/* Spaciaz Frosted Liquid Glass Footer Box (.elementor-element-c201cb5: backdrop-filter: blur(60px), border-radius: 30px) */}
@@ -96,17 +97,16 @@ export function Footer({ locale, labels }: FooterProps) {
             <div className="lg:col-span-4">
               <Link
                 href="/"
-                className="inline-flex items-center gap-3 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+                aria-label="SHERIAG Construction"
+                className="group inline-flex items-center gap-3 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
               >
                 <span
-                  className="flex h-9 w-9 items-center justify-center rounded-xl bg-brand text-surface"
+                  className="flex h-10 w-10 items-center justify-center rounded-xl bg-brand text-surface shadow-sm transition-transform duration-300 group-hover:scale-105"
                   aria-hidden="true"
                 >
-                  <span className="h-3.5 w-3.5 border-2 border-surface" />
+                  <LogoIcon className="h-6 w-6 text-surface" />
                 </span>
-                <span className="font-heading text-2xl font-bold lowercase tracking-[-0.04em] text-surface">
-                  sheriag
-                </span>
+                <LogoWordmark className="h-7 w-auto text-surface transition-colors group-hover:text-brand" />
               </Link>
               <p className="mt-4 max-w-sm text-sm leading-relaxed text-surface/75">
                 {labels.description}
