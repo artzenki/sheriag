@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowUpRight } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { Link } from '@/i18n/routing';
 import { cn } from '@/lib/utils';
 
@@ -87,14 +87,18 @@ export function Button(props: ButtonProps) {
       {showArrow && (
         <span
           className={cn(
-            'relative flex shrink-0 items-center justify-center overflow-hidden rounded-full transition-colors duration-300',
+            'flex shrink-0 items-center justify-center rounded-full transition-colors duration-300',
             iconBadgeStyles[variant],
             iconSizeStyles[size]
           )}
           aria-hidden="true"
         >
-          <ArrowUpRight className="h-4 w-4 transition-transform duration-300 ease-out group-hover/btn:translate-x-4 group-hover/btn:-translate-y-4 group-hover/btn:scale-50" />
-          <ArrowUpRight className="absolute h-4 w-4 -translate-x-4 translate-y-4 scale-50 transition-transform duration-300 ease-out group-hover/btn:translate-x-0 group-hover/btn:translate-y-0 group-hover/btn:scale-100" />
+          <ArrowRight
+            className={cn(
+              'transition-transform duration-300 ease-out group-hover/btn:-rotate-45',
+              size === 'sm' ? 'h-3.5 w-3.5' : size === 'lg' ? 'h-4.5 w-4.5' : 'h-4 w-4'
+            )}
+          />
         </span>
       )}
     </>

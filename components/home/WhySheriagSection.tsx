@@ -134,10 +134,10 @@ export function WhySheriagSection({
                   {learnMoreLabel}
                 </span>
                 <span
-                  className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-brand text-surface transition-transform duration-300 group-hover:rotate-45"
+                  className="inline-flex h-11 w-11 items-center justify-center rounded-full bg-brand text-surface transition-colors duration-300 group-hover:bg-ink"
                   aria-hidden="true"
                 >
-                  <ArrowRight className="h-5 w-5 -rotate-45" />
+                  <ArrowRight className="h-5 w-5 transition-transform duration-300 ease-out group-hover:-rotate-45" />
                 </span>
               </div>
             </button>

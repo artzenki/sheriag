@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { ArrowUpRight, Building2, Car, Layers, MapPin } from 'lucide-react';
+import { ArrowRight, Building2, Car, Layers, MapPin } from 'lucide-react';
 import { Link, Locale } from '@/i18n/routing';
 import type { Residence } from '@/data/residences';
 import { Badge } from './Badge';
@@ -148,10 +148,9 @@ export function ResidenceCard({
             <Link
               href={`/residences/${residence.slug}`}
               aria-label={`${labels.viewResidence}: ${residence.name[locale]}`}
-              className="group/arrow relative flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-full bg-brand text-surface transition-colors duration-300 hover:bg-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
+              className="group/arrow relative flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-brand text-surface transition-colors duration-300 hover:bg-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
             >
-              <ArrowUpRight className="h-5 w-5 transition-transform duration-300 ease-out group-hover:translate-x-4 group-hover:-translate-y-4 group-hover:scale-50" />
-              <ArrowUpRight className="absolute h-5 w-5 -translate-x-4 translate-y-4 scale-50 transition-transform duration-300 ease-out group-hover:translate-x-0 group-hover:translate-y-0 group-hover:scale-100" />
+              <ArrowRight className="h-5 w-5 transition-transform duration-300 ease-out group-hover/arrow:-rotate-45" />
             </Link>
           </div>
 

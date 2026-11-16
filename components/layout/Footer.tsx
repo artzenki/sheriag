@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import { ArrowUpRight, Facebook, Instagram, Linkedin, Mail, MapPin, Phone } from 'lucide-react';
+import { ArrowRight, Facebook, Instagram, Linkedin, Mail, MapPin, Phone } from 'lucide-react';
 import { Link, Locale } from '@/i18n/routing';
 import { residences } from '@/data/residences';
 import { Container } from '@/components/ui/Container';
@@ -77,7 +77,7 @@ export function Footer({ locale, labels }: FooterProps) {
             href="/quote"
             className="group relative z-20 mt-8 -mb-12 flex h-36 w-36 flex-col items-center justify-center rounded-full spaciaz-glass p-4 text-center font-heading text-sm font-bold leading-tight text-surface transition-all duration-300 hover:scale-105 hover:border-brand hover:bg-brand sm:mt-10 sm:-mb-20 sm:h-40 sm:w-40 sm:text-base focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand"
           >
-            <ArrowUpRight className="mb-1.5 h-6 w-6 text-brand transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1 group-hover:text-surface" />
+            <ArrowRight className="mb-1.5 h-6 w-6 text-brand transition-all duration-300 ease-out group-hover:-rotate-45 group-hover:text-surface" />
             <span>{labels.ctaButton || labels.nav.quote}</span>
           </Link>
         </div>
